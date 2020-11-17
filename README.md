@@ -3,7 +3,7 @@
 by [Dhruv Patel]([Github](https://github.com/dhruvbpatel/))
 
 **Problem Statement:** 
-	Image quality detection has always been an arduous problem to solve in computer vision. In this assignment you have to come up with features and models to build a classifier which will predict whether a given image is blurred.
+	Image quality detection has always been an arduous problem to solve in computer vision.In this project, We will  come up with features and models to build a classifier which will predict whether a given image is blurred.
 
 DataSet Link: [CERTH_ImageBlurDataset](http://mklab.iti.gr/files/imageblur/CERTH_ImageBlurDataset.zip)
 -
