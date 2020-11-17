@@ -1,0 +1,18 @@
+## dont track these folder
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+data/
+venv/
+__pycache__/
+.vscode/
+
+## dont track these files
+
+*.zip
+*.tar
+*.csv
+
+instructions.txt
